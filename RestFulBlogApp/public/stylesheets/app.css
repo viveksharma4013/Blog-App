@@ -1,0 +1,25 @@
+i.icon{
+	font-size:2em;
+}
+.container.main{
+	margin-top:7.0em;
+}
+#delete{
+	display:inline;
+}
+#menu{
+	margin-bottom=10px;
+}
+.blogImage{
+	width:400px;
+	height:300px;
+}
+.title{
+	margin-top:10em;
+}
+#indextitle{
+	border-right:3px solid black;
+}
+.box{
+	border: 3px solid black;
+}
